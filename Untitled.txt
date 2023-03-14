@@ -1,0 +1,8 @@
+1-fazer o link de cada imagem com seu respectivo texto;
+2-Fazer a animação de transição do texto da esquerda para a direita;
+3-No faq, colocar uma setinha ascII pra abrir e fechar cada dt, fazendo o texto aparecer de dentro dela em uma transição para baixo;
+4-Fazer com que a página desça suavemente ao clicar na ancora no nav;
+5-fazer com que as seções transicionem da esquerda para a direita, aparecendo ao dar "Scroll na página";
+6-Fazer com que o texto apareça mesmo se o usuário estiver com o script do navegador desligado.
+
+
